@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus Alves, programador de jogos e entusiasta em programação de software 
+### Olá, eu sou o Matheus Alves, programador de jogos e entusiasta em programação de software e IAs
 ### Hi, i'm matheus, game, software and AI programming enthusiast 
 
 <picture>
