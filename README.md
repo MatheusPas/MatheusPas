@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathreurs&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathreurs&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dark&hide_border=false" alt="languages graph"  />
 </div>
 
 <div style="display: inline_block"><br>
