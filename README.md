@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Alves, programador de jogos e entusiasta em programação de software e IAs
 ### Hi, i'm matheus, game, software and AI programming enthusiast 
 
-<div align="center" display = "flex">
+<div align="left" display = "flex">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mathreurs&show_icons=true&theme=dark"
