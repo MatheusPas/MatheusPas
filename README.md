@@ -11,6 +11,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gab84&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </picture>
 
 <div style="display: inline_block"><br>
