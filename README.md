@@ -1,5 +1,5 @@
-### Olá, eu sou o Matheus Alves, programador de jogos e entusiasta em programação de software e IAs
-### Hi, i'm matheus, game, software and AI programming enthusiast 
+### Olá, eu sou o Matheus, programador de jogos e entusiasta em programação de software e IAs
+### Hi, i'm Matheus, game, software and AI programming enthusiast 
 
 <div align="left" display = "flex">
   <picture>
