@@ -8,13 +8,13 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mathreurs&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=mMatheusPas&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathreurs&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height = "195" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height = "195" />
 </div>
 
 <div style="display: inline_block"><br>
