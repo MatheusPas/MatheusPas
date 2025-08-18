@@ -16,12 +16,17 @@
           srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" height="200"/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" 
+          width="420" 
+          height="200"
+        />
       </picture>
     </td>
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dark&hide_border=false" 
+        width="420" 
         height="200"
         alt="languages graph"
       />
