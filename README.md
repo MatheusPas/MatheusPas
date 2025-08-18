@@ -18,7 +18,6 @@
         />
         <img 
           src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" 
-          width="420" 
           height="200"
         />
       </picture>
@@ -26,7 +25,6 @@
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dark&hide_border=false" 
-        width="420" 
         height="200"
         alt="languages graph"
       />
