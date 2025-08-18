@@ -3,27 +3,31 @@
 
 ---
 
-<!-- Painéis de commits e linguagens -->
-<div align="center">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" />
-  </picture>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dark&hide_border=false" 
-    alt="languages graph"
-  />
-
-</div>
+<!-- Painéis de commits e linguagens lado a lado -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" height="200"/>
+      </picture>
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dark&hide_border=false" 
+        height="200"
+        alt="languages graph"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
