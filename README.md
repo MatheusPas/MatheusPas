@@ -1,38 +1,41 @@
 ### Olá, eu sou o Matheus, programador de jogos e entusiasta em programação de software e IAs
 ### Hi, i'm Matheus, game, software and AI programming enthusiast 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+<table>
+  <tr>
+    <!-- Painel de Commits -->
+    <td align="center" width="50%">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" width="100%"/>
+      </picture>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" width="100%" alt="languages graph">
+    </td>
 
-  <!-- Painel de Commits -->
-  <div style="flex: 1; min-width: 300px; max-width: 48%;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true" style="width: 100%;" />
-    </picture>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="languages graph" style="width: 100%; margin-top: 10px;">
-  </div>
-
-  <!-- Painel de Tecnologias -->
-  <div style="flex: 1; min-width: 300px; max-width: 48%; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; padding: 10px; border-radius: 10px; background-color: #0d1117;">
-    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-    <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-    <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  </div>
-
-</div>
+    <!-- Painel de Tecnologias -->
+    <td align="center" width="50%">
+      <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <br><br>
+      <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+      <br><br>
+      <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+      <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      <br><br>
+      <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+      <img height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    </td>
+  </tr>
+</table>
 
 ##
 
