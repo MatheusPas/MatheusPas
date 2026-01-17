@@ -1,39 +1,70 @@
 ## Hello, I'm Matheus  
-Game Developer | Data Analyst | Software & AI Programming Enthusiast  
+### Game Developer | Data Analyst | Software & AI Programming Enthusiast  
 
 ---
 
-## GitHub Statistics
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPas&layout=compact&langs_count=6&theme=dark&cache_seconds=1800)
+<!-- GitHub statistics -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark&cache_seconds=1800"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&cache_seconds=1800"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark&cache_seconds=1800" 
+          height="200"
+          alt="GitHub statistics"
+        />
+      </picture>
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPas&layout=compact&langs_count=6&theme=dark&cache_seconds=1800" 
+        height="200"
+        alt="Most used languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Technologies and Tools
 
-### Programming Languages
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
+<div align="center"><br>
 
-### Game and Frameworks
-![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg)
+  <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="PHP" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img alt="Unity" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img alt="Java" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/icon@latest/icons/java/java-original-wordmark.svg">
+  <img alt="MySQL" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="HTML5" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img alt="CSS3" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
 
-### Databases
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
-
-### Web Technologies
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
+</div>
 
 ---
 
 ## Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathreur)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ncCczQHS)  
-[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvespassosmatheus@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-passos-71b464266)
+<div align="center"> 
+  <a href="https://www.instagram.com/mathreur" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/ncCczQHS" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="mailto:alvespassosmatheus@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-alves-passos-71b464266" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
