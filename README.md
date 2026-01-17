@@ -1,5 +1,5 @@
-### Olá, eu sou o Matheus, programador de jogos e entusiasta em programação de software e IAs  
-### Hi, i'm Matheus, game, software and AI programming enthusiast 
+### Olá, eu sou o Matheus, programador de jogos, analista de dados e entusiasta em programação de software e IAs  
+### Hi, i'm Matheus, game, data analyst,software and AI programming enthusiast 
 
 ---
 
