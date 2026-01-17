@@ -4,34 +4,17 @@
 ---
 
 <!-- GitHub statistics -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark&cache_seconds=1800"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&cache_seconds=1800"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark&cache_seconds=1800" 
-          height="200"
-          alt="GitHub statistics"
-        />
-      </picture>
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPas&layout=compact&langs_count=6&theme=dark&cache_seconds=1800" 
-        height="200"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
@@ -56,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
   <a href="mailto:alvespassosmatheus@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-alves-passos-71b464266" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
