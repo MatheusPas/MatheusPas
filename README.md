@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,docker,dotnet,unity,java,php" />
+    <img src="https://skillicons.dev/icons?i=cs,docker,dotnet,unity,java,php,sql," />
   </a>
 </p>
 
