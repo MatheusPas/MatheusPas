@@ -50,15 +50,15 @@
 
 <div align="center"> 
   <a href="https://www.instagram.com/mathreur" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://discord.gg/ncCczQHS" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
   <a href="mailto:alvespassosmatheus@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=email" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-alves-passos-71b464266" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
 </div>
