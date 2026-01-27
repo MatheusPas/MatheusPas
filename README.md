@@ -9,7 +9,6 @@ I enjoy combining **programming, data, and problem-solving** to build efficient 
 ## GitHub Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true&theme=dark#gh-dark-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=MatheusPas&show_icons=true#gh-light-mode-only)
 
 ---
 
